@@ -1,0 +1,17 @@
+1. Software Obligatorio
+✅ Python 3.8+  
+✅ Scapy 2.4.5+  
+✅ Sistema Linux/Windows con WSL  
+✅ Permisos de administrador  
+
+ 2. Hardware recomendado:
+✅ 4 GB RAM  
+✅ 1 GB espacio libre  
+✅ Tarjeta de red compatible  
+✅ CPU 2+ núcleos  
+
+3. Configuración especial:
+✅ Máquina virtual aislada  
+✅ Laboratorio de redes (GNS3/PNETLab)  
+✅ Dispositivos Cisco para pruebas  
+✅ Firewall deshabilitado temporalmente  
