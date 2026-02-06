@@ -33,21 +33,21 @@ Conexión con **Switch** etho0 > e0/2
 
 
 ## Parámetros usados en Atacante
-`**python3 cdp_dos.py --help**`
+`python3 cdp_dos.py --help`
 
-**usage: cdp_dos.p**y `[-h] [-i INTERFACE] [-c COUNT] [-d DELAY]**`
+**usage: cdp_dos.p**y `[-h] [-i INTERFACE] [-c COUNT] [-d DELAY]`
 
-`**Script de ataque DoS mediante inundación de paquetes CDP con Scapy.**`
+`Script de ataque DoS mediante inundación de paquetes CDP con Scapy.`
 
 **options:
   -h, --help**            `show this help message and exit**`
   
- **-i INTERFACE**, `--interface INTERFACE**`
+ **-i INTERFACE**, `--interface INTERFACE`
 
   
                         Interfaz de red por la que se enviarán los paquetes (por defecto: eth0).
   **-c COUNT**, `--count COUNT`
-                        `Número total de paquetes a enviar (por defecto: 10000).**`
+                        `Número total de paquetes a enviar (por defecto: 10000).`
                         
                         
   **-d DELAY, `--delay DELAY`
