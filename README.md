@@ -12,7 +12,6 @@
 <img width="536" height="553" alt="image" src="https://github.com/user-attachments/assets/b888fd6e-2f8e-496f-a4b4-092bfa749b67" />
 
 **En la topologia utilizamos las siguientes conexiones;**
-##Router conexion hacia el **Switch** e0/0 > e0/0
 - **Router**
 
 Conexion hacia el **Switch** e0/0 > e0/0
